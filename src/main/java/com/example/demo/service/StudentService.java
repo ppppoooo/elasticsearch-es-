@@ -3,7 +3,7 @@ package com.example.demo.service;
 import com.example.demo.model.Student;
 
 /**
- * @Author mengxiangzhi
+ *
  * @CreatTime 2019/7/8
  **/
 public interface StudentService {

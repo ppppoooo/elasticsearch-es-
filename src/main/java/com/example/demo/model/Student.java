@@ -6,7 +6,7 @@ import org.springframework.data.elasticsearch.annotations.Document;
 import org.springframework.data.elasticsearch.annotations.Field;
 
 /**
- * @Author mengxiangzhi
+ *
  * @CreatTime 2019/7/8
  **/
 @Data
